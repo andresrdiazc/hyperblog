@@ -1,7 +1,9 @@
 Esta es la historia de Andres Diaz
 
-Andres Diaz tiene 22 años y nació en Colombia
+Andres Diaz tiene 22 años y nací en Ibagué
 
 Hoy revisaremos el curso de Git y GitHub en Platzi
 
 Esta es la modificación 2 porque me toco revisar el tema del email
+
+En la modificacion 3 le cambie la ciudad
